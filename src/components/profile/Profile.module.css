@@ -1,0 +1,7 @@
+.content {
+    grid-area: c;
+    background-color: #064d3e;
+}
+.profile {
+    padding: 10px;
+}
